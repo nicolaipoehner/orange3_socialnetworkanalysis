@@ -1,0 +1,49 @@
+*Vertices 24
+1 "aaron183"
+2 "admin"
+3 "ameli68"
+4 "adrian211"
+5 "celine142"
+6 "aileen2"
+7 "ann145"
+8 "alexander190"
+9 "celine96"
+10 "ameli490"
+11 "cedric351"
+12 "ameli80"
+13 "aurelie141"
+14 "anke49"
+15 "colin173"
+16 "anna247"
+17 "david470"
+18 "bea160"
+19 "bea414"
+20 "benjamin257"
+21 "benjamin272"
+22 "daniel334"
+23 "daniel405"
+24 "crazy34"
+*Edges
+1 2 1
+2 3 1
+4 5 1
+6 7 1
+8 9 1
+10 11 1
+3 6 1
+12 13 1
+14 7 1
+7 15 1
+16 17 1
+13 5 1
+18 19 1
+19 13 1
+20 18 1
+21 10 1
+11 12 1
+5 7 1
+9 6 1
+15 1 1
+22 13 1
+23 24 1
+17 11 1

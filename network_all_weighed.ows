@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme version="2.0" title="" description="">
+	<nodes>
+		<node id="0" name="Network File" qualified_name="orangecontrib.network.widgets.OWNxFile.OWNxFile" project_name="Orange3-Network" version="" title="Network File" position="(150, 150)" />
+		<node id="1" name="Network Clustering" qualified_name="orangecontrib.network.widgets.OWNxClustering.OWNxClustering" project_name="Orange3-Network" version="" title="Network Clustering" position="(300, 150)" />
+		<node id="2" name="Network Explorer" qualified_name="orangecontrib.network.widgets.OWNxExplorer.OWNxExplorer" project_name="Orange3-Network" version="" title="Network Explorer" position="(450, 150)" />
+	</nodes>
+	<links>
+		<link id="0" source_node_id="0" sink_node_id="1" source_channel="Network" sink_channel="Network" enabled="true" />
+		<link id="1" source_node_id="1" sink_node_id="2" source_channel="Network" sink_channel="Network" enabled="true" />
+	</links>
+	<annotations />
+	<thumbnail />
+	<node_properties>
+		<properties node_id="0" format="literal">{'controlAreaVisible': True, 'recentFiles': ['C:/Users/Schule/Desktop/Hausarbeit/Orange/network_all_weighed.net', 'C:/Users/Schule/Desktop/Hausarbeit/Orange/follows_all_weighed.net', 'C:/Users/Schule/Desktop/Hausarbeit/Orange/follows_weighed.net', 'C:/Users/Schule/Desktop/Hausarbeit/Orange/follows.net', 'C:/Users/Schule/AppData/Local/Programs/Orange/Lib/site-packages/orangecontrib/network/networks/airtraffic.net', 'C:/Users/Schule/Desktop/Hausarbeit/Datenschutz und Data-Mining in sozialen Netzwerken/follows.net', 'C:/Users/Schule/Downloads/testfiles/testfiles/multiRelation.net', 'C:/Users/Schule/Downloads/testfiles/testfiles/edgelist.net', 'C:/Users/Schule/AppData/Local/Programs/Orange/Lib/site-packages/orangecontrib/network/networks/lastfm.net'], 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x01u\x00\x00\x00r\x00\x00\x02\xf2\x00\x00\x02e\x00\x00\x01u\x00\x00\x00r\x00\x00\x02\xf2\x00\x00\x02e\x00\x00\x00\x00\x00\x00\x00\x00\x04h\x00\x00\x01u\x00\x00\x00r\x00\x00\x02\xf2\x00\x00\x02e', '__version__': 1, 'context_settings': []}</properties>
+		<properties node_id="1" format="literal">{'attenuate': True, 'auto_apply': False, 'controlAreaVisible': True, 'hop_attenuation': 0.1, 'iterations': 1000, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x01\xdf\x00\x00\x01\r\x00\x00\x02\x88\x00\x00\x01\xb5\x00\x00\x01\xe0\x00\x00\x01$\x00\x00\x02\x87\x00\x00\x01\xb4\x00\x00\x00\x00\x00\x00\x00\x00\x04h\x00\x00\x01\xe0\x00\x00\x01$\x00\x00\x02\x87\x00\x00\x01\xb4', 'use_random_state': False, '__version__': 2}</properties>
+		<properties node_id="2" format="pickle">gASV5AIAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjA5sYXlv
+dXRfZGVuc2l0eZRLCowJbWFya19ob3BzlEsBjA1tYXJrX21heF9jb25ulEsFjA1tYXJrX21pbl9j
+b25ulEsPjA5tYXJrX21vc3RfY29ubpRLAYwPb2JzZXJ2ZV93ZWlnaHRzlIiME3NhdmVkV2lkZ2V0
+R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAAEAAAAMAAAEaAAAAuQAAAACAAAAIwAABGcAAALjAAAAAAAA
+AAAEaAAAAAIAAAAjAAAEZwAAAuOUjAlzZWxlY3Rpb26UTowPdmlzdWFsX3NldHRpbmdzlH2UjAVn
+cmFwaJR9lCiMC2FscGhhX3ZhbHVllEuAjA1jbGFzc19kZW5zaXR5lImMCmVkZ2Vfd2lkdGiUSwGM
+C2ppdHRlcl9zaXpllEsAjBNsYWJlbF9vbmx5X3NlbGVjdGVklImMFGxhYmVsX3NlbGVjdGVkX2Vk
+Z2VzlIiMC3BvaW50X3dpZHRolEsUjBRyZWxhdGl2ZV9lZGdlX3dpZHRoc5SIjBFzaG93X2VkZ2Vf
+d2VpZ2h0c5SIjAlzaG93X2dyaWSUiYwLc2hvd19sZWdlbmSUiHWMC19fdmVyc2lvbl9flEsBjBBj
+b250ZXh0X3NldHRpbmdzlF2UjBVvcmFuZ2V3aWRnZXQuc2V0dGluZ3OUjAdDb250ZXh0lJOUKYGU
+fZQojAZ2YWx1ZXOUfZQojAphdHRyX2NvbG9ylIwHQ2x1c3RlcpRLZYaUjAphdHRyX2xhYmVslIwK
+bm9kZV9sYWJlbJRLZ4aUjAphdHRyX3NoYXBllE5K/v///4aUjAlhdHRyX3NpemWUTkr+////hpRo
+Dn2UaBtLAXWMCmF0dHJpYnV0ZXOUfZSMBW1ldGFzlH2UKIwKbm9kZV9sYWJlbJRLA4wHQ2x1c3Rl
+cpRLAXV1YmF1Lg==
+</properties>
+	</node_properties>
+	<session_state>
+		<window_groups />
+	</session_state>
+</scheme>
